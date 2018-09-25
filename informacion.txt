@@ -1,0 +1,6 @@
+Primer lugar
+https://www.youtube.com/watch?v=JJoBUdMJf1I
+https://github.com/steveftw/spring-angular
+Segundo 
+https://grokonez.com/java-integration/integrate-angular-4-springboot-web-app-springtoolsuite#I_Technologies
+https://grokonez.com/spring-framework/spring-boot/deploy-spring-boot-web-app-war-file-tomcat-server-maven-build
